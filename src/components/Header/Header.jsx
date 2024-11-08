@@ -86,8 +86,8 @@ const Header = () => {
                   <i class="ri-earth-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Bangladesh</h4>
-                  <h6>Sylhet City, Bangladesh</h6>
+                  <h4>Uzbekistan</h4>
+                  <h6>Tashkent City,Uzbekistan</h6>
                 </div>
               </div>
             </Col>
